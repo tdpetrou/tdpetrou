@@ -10,7 +10,7 @@ Become an expert with my comprehensive books and courses
 
 ## Get started for free
 
-Sample my material by taking my [free Intro to Pandas class][6].
+Sample my material by taking my [free Intro to Pandas class][6]
 
 [0]: https://dunderdata.com
 [1]: https://www.dunderdata.com/master-the-fundamentals-of-python
