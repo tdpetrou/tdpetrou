@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Teddy Petrou, founder of Dunder Data
+- 👋 Hi, I’m Teddy Petrou, founder of [Dunder Data][0]
 - 👀 I’m interested in ... helping you master the python data science ecosystem with my books, courses, exercises, and exams
 
 ## Become an Expert
