@@ -1,20 +1,21 @@
-- 👋 Hi, I’m Teddy Petrou, founder of [Dunder Data][0]
-- 👀 I’m interested in ... helping you master the python data science ecosystem with my books, courses, exercises, and exams
+# Master the Python Data Science Ecosystem
 
-## Become an Expert
-
-If you are looking for a comprehensive path to help you become an expert at the python data science ecosystem, check out the following books I wrote.
+Become an expert with my comprehensive books and courses
 
 * [Master the Fundamentals of Python][1]
 * [Master Data Analysis with Python][2]
 * [Master Machine Learning with Python][3]
+* [Build a Data Analysis Library from Scratch in Python][4]
+* [Build an Interactive Data analytics Dashboard with Python][5]
 
 ## Get started for free
 
-Sample my material by taking my [free Intro to Pandas class][4].
+Sample my material by taking my [free Intro to Pandas class][6].
 
 [0]: https://dunderdata.com
 [1]: https://www.dunderdata.com/master-the-fundamentals-of-python
 [2]: https://www.dunderdata.com/master-data-analysis-with-python
 [3]: https://www.dunderdata.com/master-machine-learning-with-python
-[4]: https://www.dunderdata.com/intro-to-pandas
+[4]: https://www.dunderdata.com/build-an-interactive-data-analytics-dashboard-with-python
+[5]: https://www.dunderdata.com/build-a-data-analysis-library-from-scratch-in-python
+[6]: https://www.dunderdata.com/intro-to-pandas
